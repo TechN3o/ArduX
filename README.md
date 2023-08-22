@@ -1,3 +1,3 @@
 # ArduX
-Multitool, like Flipper Zero alternative made from Arduino MKR Wifi 1010.
-Documentation coming soon..
+Hardware multitool like Flipper Zero, made withArduino MKR Wifi 1010.
+More documentation coming soon..
